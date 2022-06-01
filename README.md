@@ -1,2 +1,5 @@
-# Clase6_git_jairo
+# CLASE 6: CONTROL DE LA VERSIÓN
 Revisión del control de la versión desde el terminal
+
+##DATOS PERSONALES
+-Jairo Calapucha
